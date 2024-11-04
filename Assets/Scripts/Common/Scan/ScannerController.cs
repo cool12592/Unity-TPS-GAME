@@ -5,7 +5,7 @@ using UnityEngine.Rendering.PostProcessing;
 
 public class ScannerController : MonoBehaviour{
 
-	const int MAXDISTORSION = 76;
+	const int MAXDISTORSION = 76;//
 	const int MINDISTORSION = 1;
 	const float MAXDISTANCE = 15;
 	const float MINDISTANCE = 0.1f;
