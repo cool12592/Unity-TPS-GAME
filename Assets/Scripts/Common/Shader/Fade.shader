@@ -30,7 +30,7 @@
                 float4 vertex : SV_POSITION;
             };
 
-			float4 _MainColor;
+            float4 _MainColor;
             float _Alpha;
 
             v2f vert (appdata v)
